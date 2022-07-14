@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6283183321692'] //ur owner number
-global.ownername = "O w n e r BOT-MD" //ur owner name
+global.ownername = "☞︎︎︎«««𓇽««✰𝙱𝚢𝚎✰»»𓇽»»»☜︎︎︎" //ur owner name
 global.ytname = "-" //ur yt chanel name
 global.socialm = "https://chat.whatsapp.com/JhayGVECnRCBUMldIgZOOd" //ur github or insta name
 global.location = "Indonesia, Medan" //ur location
@@ -63,14 +63,14 @@ global.location = "Indonesia, Medan" //ur location
 //bot bomdy 
 global.owner = ['6283183321692']
 global.ownertag = '6283183321692' //ur tag number
-global.botname = 'B O T - M D' //ur bot name
+global.botname = '✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰' //ur bot name
 global.linkz = "🗿🔥🗿" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/JhayGVECnRCBUMldIgZOOd" //ur website to be displayed
-global.botscript = 'CARI SENDIRI BANG🗿' //script link
+global.botscript = 'CARI SENDIRI BANG' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "👤" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "BOT-MD" //ur sticker watermark author
+global.author = "BOT" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
